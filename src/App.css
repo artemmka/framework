@@ -1,0 +1,23 @@
+.headbuttons{
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+body{
+    background-color: bisque;
+}
+.content{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.cnvas{
+    position: relative;
+    width: 30%;
+    border-radius: 1%;
+    border-color: #00ffff;
+    border: solid;
+}
